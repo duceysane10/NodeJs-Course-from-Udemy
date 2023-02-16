@@ -1,0 +1,17 @@
+{
+  "name": "section-one",
+  "version": "1.0.0",
+  "description": "nodejs course",
+  "main": "index.js",
+  "scripts": {  
+    "start": "nodemon index.js"
+  },
+  "author": "eng duceysane",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
